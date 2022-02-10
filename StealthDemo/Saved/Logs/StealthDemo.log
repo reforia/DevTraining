@@ -2898,3 +2898,64 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.10-15.03.06:049][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
 [2022.02.10-15.03.06:061][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2022.02.10-15.03.06:080][431]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.02.10-15.04.18:005][769]BlueprintLog: New page: Compile C_Stealth
+[2022.02.10-15.04.18:030][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.02.10-15.04.19:083][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/C_Stealth" FILE="../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset" SILENT=true
+[2022.02.10-15.04.19:091][888]LogSavePackage: Moving '../../../../../Github/DevTraining/StealthDemo/Saved/C_Stealth0E4D58F5491C3F42E8621BBCA95AE921.tmp' to '../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset'
+[2022.02.10-15.04.19:098][888]AssetCheck: New page: Asset Save: C_Stealth
+[2022.02.10-15.04.19:098][888]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/C_Stealth.C_Stealth
+[2022.02.10-15.04.45:314][961]BlueprintLog: New page: Compile C_Stealth
+[2022.02.10-15.04.45:337][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.02.10-15.04.45:933][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/C_Stealth" FILE="../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset" SILENT=true
+[2022.02.10-15.04.45:941][ 21]LogSavePackage: Moving '../../../../../Github/DevTraining/StealthDemo/Saved/C_Stealth84E29CB340D99A3CFABAF6A7D9F69EDC.tmp' to '../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset'
+[2022.02.10-15.04.45:951][ 21]AssetCheck: New page: Asset Save: C_Stealth
+[2022.02.10-15.04.45:951][ 21]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/C_Stealth.C_Stealth
+[2022.02.10-15.05.07:377][439]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.10-15.05.18:164][675]LogSlate: Window 'Project Settings' being destroyed
+[2022.02.10-15.05.18:169][675]LogSlate: Window 'Project Settings' being destroyed
+[2022.02.10-15.05.28:869][901]BlueprintLog: New page: Compile C_Stealth
+[2022.02.10-15.05.28:893][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.02.10-15.05.29:614][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/C_Stealth" FILE="../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset" SILENT=true
+[2022.02.10-15.05.29:623][973]LogSavePackage: Moving '../../../../../Github/DevTraining/StealthDemo/Saved/C_StealthCC523FEC4A7C6F225CDCB48B739CFF5C.tmp' to '../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset'
+[2022.02.10-15.05.29:630][973]AssetCheck: New page: Asset Save: C_Stealth
+[2022.02.10-15.05.29:630][973]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/C_Stealth.C_Stealth
+[2022.02.10-15.07.42:566][823]BlueprintLog: New page: Compile C_Stealth
+[2022.02.10-15.07.42:590][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.02.10-15.07.43:047][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/C_Stealth" FILE="../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset" SILENT=true
+[2022.02.10-15.07.43:055][868]LogSavePackage: Moving '../../../../../Github/DevTraining/StealthDemo/Saved/C_Stealth1681472742D81E6BFAC771B5A2FC7E3A.tmp' to '../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset'
+[2022.02.10-15.07.43:062][868]AssetCheck: New page: Asset Save: C_Stealth
+[2022.02.10-15.07.43:062][868]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/C_Stealth.C_Stealth
+[2022.02.10-15.07.48:166][413]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.10-15.07.52:782][413]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.10-15.07.55:508][680]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.02.10-15.07.55:515][680]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.02.10-15.08.01:268][371]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Enum_MovementContext
+[2022.02.10-15.08.01:269][371]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.02.10-15.08.02:396][500]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Character/Enum_MovementContext.Enum_MovementContext
+[2022.02.10-15.09.06:039][ 39]LogSlate: Took 0.000454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.02.10-15.09.12:489][784]BlueprintLog: New page: Compile C_Stealth
+[2022.02.10-15.09.12:515][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.10-15.09.13:110][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/C_Stealth" FILE="../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset" SILENT=true
+[2022.02.10-15.09.13:118][845]LogSavePackage: Moving '../../../../../Github/DevTraining/StealthDemo/Saved/C_Stealth4B75E01342BF0593E0EC6B90321A34F2.tmp' to '../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset'
+[2022.02.10-15.09.13:126][845]AssetCheck: New page: Asset Save: C_Stealth
+[2022.02.10-15.09.13:126][845]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/C_Stealth.C_Stealth
+[2022.02.10-15.12.38:704][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.02.10-15.12.38:705][902]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Entry' took 0.013
+[2022.02.10-15.12.38:705][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/C_Stealth] ([1] browsable assets)...
+[2022.02.10-15.12.38:705][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/C_Stealth]
+[2022.02.10-15.12.38:718][902]LogSavePackage: Moving '../../../../../Github/DevTraining/StealthDemo/Saved/C_Stealth_Auto2D270720A43772059F3A723A262471321.tmp' to '../../../../../Github/DevTraining/StealthDemo/Saved/Autosaves/Game/Blueprints/Character/C_Stealth_Auto2.uasset'
+[2022.02.10-15.12.38:719][902]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.02.10-15.13.18:549][633]BlueprintLog: New page: Compile C_Stealth
+[2022.02.10-15.13.18:574][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.02.10-15.13.19:105][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/C_Stealth" FILE="../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset" SILENT=true
+[2022.02.10-15.13.19:118][686]LogSavePackage: Moving '../../../../../Github/DevTraining/StealthDemo/Saved/C_Stealth37FA6C614D7A94A61B0CB5B594D621E8.tmp' to '../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset'
+[2022.02.10-15.13.19:126][686]AssetCheck: New page: Asset Save: C_Stealth
+[2022.02.10-15.13.19:126][686]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/C_Stealth.C_Stealth
+[2022.02.10-15.13.29:808][966]BlueprintLog: New page: Compile C_Stealth
+[2022.02.10-15.13.29:833][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.02.10-15.13.30:355][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/C_Stealth" FILE="../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset" SILENT=true
+[2022.02.10-15.13.30:369][ 20]LogSavePackage: Moving '../../../../../Github/DevTraining/StealthDemo/Saved/C_StealthEE9DE56A4D1830CBCE08C6ADD6584232.tmp' to '../../../../../Github/DevTraining/StealthDemo/Content/Blueprints/Character/C_Stealth.uasset'
+[2022.02.10-15.13.30:377][ 20]AssetCheck: New page: Asset Save: C_Stealth
+[2022.02.10-15.13.30:377][ 20]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/C_Stealth.C_Stealth
+[2022.02.10-15.21.31:739][728]BlueprintLog: New page: Compile C_Stealth
+[2022.02.10-15.21.31:768][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
